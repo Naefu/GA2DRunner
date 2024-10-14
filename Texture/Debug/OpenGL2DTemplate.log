@@ -1,0 +1,11 @@
+﻿  texture.cpp
+C:\Users\ahmos\Desktop\GRAPHOCS\TextureBuilder.h(27,52): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+  (compiling source file 'texture.cpp')
+  
+C:\Users\ahmos\Desktop\GRAPHOCS\TextureBuilder.h(28,52): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+  (compiling source file 'texture.cpp')
+  
+texture.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/INCREMENTAL:NO' specification
+  OpenGL2DTemplate.vcxproj -> C:\Users\ahmos\Desktop\GRAPHOCS\Debug\Texture.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.
